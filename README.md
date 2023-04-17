@@ -73,12 +73,11 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KleidsonRocha
-&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
+<img src="https://github-readme-stats.vercel.app/api?username=KleidsonRocha&show_icons=true&count_private=true&hide_border=true" align="left" />
 
 </td><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KleidsonRocha&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KleidsonRocha&hide_border=true&layout=compact" align="center" /></div>
 
 </td></tr></table>  
 
