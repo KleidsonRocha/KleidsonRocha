@@ -2,7 +2,7 @@
   
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=500&color=8201A1&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Computer+Science+Student;Web+developer;Always+Trying+to+learn+new+tings)](https://git.io/typing-svg" align="center" style="width: 100%" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=25&duration=2500&pause=500&color=6E1085&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Computer+Science+Student;Web+Developer;Always+trying+to+learn+a+new+things" align="center" style="width: 100%" />
 </div>  
   
 
@@ -15,7 +15,7 @@
 - Studying a degree in Computer Science and planing to pursue a postgraduate degree in UX Design  
   
 
-- Working at peccin since at 2022  
+- Working at Peccin since at 2022  
   
 
 - Always open to new features and techniques  
