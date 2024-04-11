@@ -15,7 +15,7 @@
 - Studying a degree in Computer Science and planing to pursue a postgraduate degree in UX Design  
   
 
-- Working at Peccin since at 2022  
+- Working at Soccol barbieri at I.T support at 2023
   
 
 - Always open to new features and techniques  
